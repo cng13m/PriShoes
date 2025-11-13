@@ -10,7 +10,7 @@ const _playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-displ
 const _outfit = Outfit({ subsets: ["latin"], variable: "--font-sans" })
 
 export const metadata: Metadata = {
-  title: "PriShoes - Crypto Sneakers Marketplace",
+  title: "PriShoes – Private Collections, Private Transactions",
   description:
     "Private, modern crypto-based sneakers marketplace. Trade rare sneakers with Bitcoin, Ethereum, Solana, and Litecoin.",
   generator: "v0.app",
